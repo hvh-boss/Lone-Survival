@@ -1,5 +1,5 @@
 local Item = {
-    Wood = {Recipes = {"Wood"}, Item = "Wood Arrow", Required = 70, u1 = 700, u2 = 701, c = false},
+    Wood = {Recipes = {"Wood"}, Item = "Wood Arrow", Required = 15, u1 = 700, u2 = 701, c = false},
     Stone = {Recipes = {"Stone"}, Item = "Shiv", Required = 15, u1 = 702, u2 = 703, c = false},
     Iron = {Recipes = {"Iron"}, Item = "Lighter", Required = 5, u1 = 704, u2 = 705, c = false},
     Steel = {Recipes = {"Steel", }, Item = "Steel Window", Required = 5, u1 = 706, u2=707, c = false},
